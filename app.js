@@ -1,3 +1,5 @@
+/*this is the Js file*/
+
 (function () {
     [...document.querySelectorAll(".control")].forEach(button => {
         button.addEventListener("click", function() {
